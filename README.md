@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome] 👋
+# Olá, sou Maxwell Victor 👋
 
 Professor de TI, desenvolvedor e entusiasta de infraestrutura e engenharia de software. Atualmente focado em construir soluções web escaláveis, sistemas de gestão e aplicações interativas.
 
@@ -16,11 +16,11 @@ Professor de TI, desenvolvedor e entusiasta de infraestrutura e engenharia de so
 
 ### 🚀 Projetos em Destaque
 
-* **[Nome do Projeto 1]** - Breve descrição sobre o projeto (ex: SaaS para gestão e cardápio digital).
-  * *Tecnologias:* Next.js, Node.js, PostgreSQL, Zustand
+* **SaaS de Gestão & Cardápio Digital** - Plataforma multi-tenant para pizzerias e restaurantes com cardápio interativo via QR code.
+  * *Tecnologias:* Next.js, Node.js, PostgreSQL, Zustand, Neon
   * [🔗 Ver Repositório](#) | [🌐 Demo ao Vivo](#)
 
-* **[Nome do Projeto 2]** - Breve descrição sobre outro projeto (ex: Jogo de Xadrez no navegador / Simulador).
+* **Xadrez Interativo no Navegador** - Jogo web desenvolvido com validação de regras de movimento, lógica de loop de jogo e interface fluida.
   * *Tecnologias:* JavaScript, HTML5 Canvas, Tailwind
   * [🔗 Ver Repositório](#) | [🌐 Demo ao Vivo](#)
 
@@ -29,12 +29,13 @@ Professor de TI, desenvolvedor e entusiasta de infraestrutura e engenharia de so
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellVictor017&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellVictor017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&locale=pt_BR" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellVictor017&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&locale=pt_BR" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellVictor017&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21" alt="Top Languages" />
-</p>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxwellVictor017&theme=tokyo-night&hide_border=true&area=true&custom_background_color=1a1b26" alt="Gráfico de Atividade" />
+</div>
 
 ---
 
